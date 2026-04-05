@@ -1,4 +1,4 @@
-# FitAura - LNMIIT Hacks Hackathon Project 🏅📊
+# FitAura
 
 ![FitAura](https://i.postimg.cc/J4j0N4RC/1.png)
 
