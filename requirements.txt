@@ -1,0 +1,10 @@
+Flask
+Flask-Login
+Flask-SQLAlchemy
+SQLAlchemy
+numpy
+pandas
+scikit-learn
+matplotlib
+waitress
+flask_bcrypt
